@@ -17,7 +17,7 @@ function Home() {
                 areas outside the Walls.
               </p>
               <Link to="/about">
-                <button className="join">read more</button>
+                <button className="join ">read more</button>
               </Link>
             </div>
           </div>
